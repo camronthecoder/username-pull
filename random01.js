@@ -11,7 +11,9 @@ xhr.onload=()=>{
 
     for (let i = 0; i < jsonData.length; i++) {
         jsonArray.push(jsonData[i].login) //wrong answer
-        
+        //hi
+
+        //hello
     }
     jsonArray.splice(5)
     randomArray=[]
