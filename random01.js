@@ -16,6 +16,7 @@ xhr.onload=()=>{
         //hello
 
         //test
+        //test
     }
     jsonArray.splice(5)
     randomArray=[]
